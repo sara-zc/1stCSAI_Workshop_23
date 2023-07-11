@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-<img alt="ZC logo" src="../zc_header.png" style="width:100%;">
+<img alt="ZC logo" src="zc_header.png" style="width:100%;">
 </div>
 
 <br>
