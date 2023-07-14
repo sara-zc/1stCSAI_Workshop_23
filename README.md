@@ -1,17 +1,6 @@
-<style>
-  img{
-    width: 50%;
-    text-align: center;
-  }
-  body{
-    font-family: Georgia, sans-serif;
-    font-size: 12pt;
-  }
-</style>
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
 <img alt="ZC logo" src="./zc_header.png" style="width:100%;">
-</div> -->
+</div>
 
 <br>
 
